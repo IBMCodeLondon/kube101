@@ -18,7 +18,7 @@ This lab is an introduction to using Docker containers on Kubernetes in the IBM 
 * Control application deployments, while minimizing your time with infrastructure management
 
 # Prerequisites
-* A Pay-As-You-Go or Subscription [IBM Cloud account](https://console.bluemix.net/registration/). If you weren't able to sign up for the credit accounts before this meetup please ask an instructor for help - they will help you activate a promo code for your account.
+* A Pay-As-You-Go or Subscription [IBM Cloud account](https://ibm.biz/BdzNY). If you weren't able to sign up for the credit accounts before this meetup please ask an instructor for help - they will help you activate a promo code for your account.
 
 # Virtual machines
 
