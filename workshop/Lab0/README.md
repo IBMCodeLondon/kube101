@@ -6,16 +6,14 @@ Before you begin learning, you need to install the required CLIs to create and m
 Thankfully the new IBM Developer Tools install comes with the following required CLIs:
 
 * IBM Cloud CLI
-* IBM Cloud Container Service plug-in
+* IBM Cloud Kubernetes Service plug-in
 * Kubernetes CLI
-* GIT CLI
 
 If you already have the CLIs and plug-ins, you can skip this lab and proceed to the next one.
 
 # Install the IBM Cloud command-line interface
 
-1. Install the [IBM Cloud command-line interface from this link](https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli).  
-**Note:** In step 3 - Configure your environment use eu-gb as IBM Cloud location, i.e. `https://api.eu-gb.bluemix.net`  
+1. Install the [IBM Cloud command-line interface from this link](https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli).     
 Once installed, you can access IBM Cloud from your command-line with the prefix `ibmcloud`.
 2. Log in to the IBM Cloud CLI: `ibmcloud login`.
 3. Enter your IBM Cloud credentials when prompted.

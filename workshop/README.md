@@ -12,13 +12,13 @@ Watch this [video](https://www.youtube.com/watch?v=wlBhtc31I8c) to learn about p
 
 # Objectives
 
-This lab is an introduction to using Docker containers on Kubernetes in the IBM Cloud Container Service. By the end of the course, you'll achieve these objectives:
+This lab is an introduction to using Docker containers on Kubernetes in the IBM Cloud Kubernetes Service. By the end of the course, you'll achieve these objectives:
 * Understand core concepts of Kubernetes
-* Use a Docker image and deploy an application on Kubernetes in the IBM Cloud Container Service
+* Use a Docker image and deploy an application on Kubernetes in the IBM Cloud Kubernetes Service
 * Control application deployments, while minimizing your time with infrastructure management
 
 # Prerequisites
-* A Pay-As-You-Go or Subscription [IBM Cloud account](https://ibm.biz/BdzNY). If you weren't able to sign up for the credit accounts before this meetup please ask an instructor for help - they will help you activate a promo code for your account.
+* A Pay-As-You-Go or Subscription [IBM Cloud account](ibm.biz/qconibmcloud). If you weren't able to sign up for the credit accounts before this meetup please ask an instructor for help - they will help you activate a promo code for your account.
 
 # Virtual machines
 
